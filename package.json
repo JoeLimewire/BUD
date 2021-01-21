@@ -11,7 +11,7 @@
     "jquery": "^3.5.1",
     "lodash": "^4.17.15",
     "react": "^16.13.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "typewriter-effect": "^2.13.1",
     "websocket": "^1.0.31"
   },
